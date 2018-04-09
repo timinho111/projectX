@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="exajdbc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.idea/libraries/exajdbc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
